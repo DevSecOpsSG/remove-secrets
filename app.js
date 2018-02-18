@@ -25,7 +25,7 @@ MongoClient.connect(db_credentials, (err, database) => {
   })
 })
 
-console.log('May All Day DevOps, Node and Vault be with you');
+console.log('May DevSecOps be with you!');
 
 app.get('/', (req, res) => {
   // var cursor = db.collection('quotes').find()
