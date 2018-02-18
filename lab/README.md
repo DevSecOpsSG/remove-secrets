@@ -2,6 +2,9 @@
 
 1. For access to services, please sign up / log in to your GitHub and join the github.com/DevSecOpsSG organization in order to access the services.
 
+Slides are here:
+ https://docs.google.com/presentation/d/12qNpVXpSxNuOE4wG9CBSGINauc7cBjOmIiQo3w7w9AA/edit?usp=sharing
+
 ## Diagrams
 
 
