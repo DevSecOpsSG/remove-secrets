@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>All Day DevOps 2017; Vault; Node; MongoDB; Docker</title>
+</head>
+<body>
+  <h1>May All Day DevOps 2017 be with you and DevOps Day SG rocks too!</h1>
+  <p>Submit your quotes here to mark your presence:</p>
+  <form action="/quotes" method="POST">
+    <input type="text" placeholder="name" name="name">
+    <input type="text" placeholder="quote" name="quote">
+    <p /><button type="submit">Submit</button>
+  </form>
+  <hr />
+  <ol class="quotes">
+  <% for(var i=0; i<quotes.length; i++) {%>
+    <li class="quote">
+      <span><%= quotes[i].name %>:</span>
+      <span>'<%= quotes[i].quote %>'</span>
+    </li>
+  <% } %>
+</ol>
+
+</body>
+</html>

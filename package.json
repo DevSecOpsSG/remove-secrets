@@ -1,0 +1,38 @@
+{
+  "name": "addo2017-node",
+  "version": "1.0.0",
+  "description": "addo2017 hello world demo app",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3jmaster/addo2017.git"
+  },
+  "keywords": [
+    "addo",
+    "all",
+    "day",
+    "devops",
+    "node",
+    "vault",
+    "hashicorp"
+  ],
+  "author": "fabian lim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3jmaster/addo2017/issues"
+  },
+  "homepage": "https://3jmaster.github.io/addo2017/",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "mongodb": "^2.2.31"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
