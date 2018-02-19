@@ -14,4 +14,5 @@ sudo docker run --network=isolated_nw \
   -d  \
   -p ${PORT}:3000 \
   --name ${CTNR_NAME} \
+  --env MONGODB_CREDENTIALS=$mongodb \
   ${IMG_NAME}
