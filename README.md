@@ -8,12 +8,16 @@ This project is for DevSecCon2018 workshop
 
 2. Create an issue in https://github.com/DevSecOpsSG/devseccon2018 project with your GitHub account so I can send an invite to your user
 
+* ![](img/create_issue_template.png)
+
 3. Join the https://github.com/DevSecOpsSG organization from the email invite
 
 Presentation Slides:
+
  https://docs.google.com/presentation/d/1jW0pPXheS2aZqsXvfPATQLbY5sDRyGVpuNpswS5Zv4I/edit?usp=sharing
 
 LAB Slides:
+
  https://docs.google.com/presentation/d/12qNpVXpSxNuOE4wG9CBSGINauc7cBjOmIiQo3w7w9AA/edit?usp=sharing
 
 ## Demo App
