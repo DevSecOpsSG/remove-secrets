@@ -12,11 +12,18 @@ This project is for DevSecCon2018 workshop
 
 3. Join the https://github.com/DevSecOpsSG organization from the email invite
 
+```
+Membership to https://github.com/DevSecOpsSG allows access to the Lab Jenkins and Vault
+For Jenkins, no further action required
+For Vault, generate a GitHub personal access token to login -> Follow Steps 1-9 on: https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line
+Scopes define the access for personal tokens: Check “read:org” only
+```
+
 Presentation Slides:
 
  * https://docs.google.com/presentation/d/1eW6oMxEmhLJm6tVkAP3iHmb_AVEuZWZ7GMsIYFMHhqo/edit?usp=sharing
 
-LAB Slides:
+Lab Slides:
 
  * https://docs.google.com/presentation/d/12qNpVXpSxNuOE4wG9CBSGINauc7cBjOmIiQo3w7w9AA/edit?usp=sharing
 
