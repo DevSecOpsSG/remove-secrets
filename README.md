@@ -26,7 +26,7 @@ This demo app.js connects to a MongoDB in MongoLab.com created from https://zell
 
 ## Lab IP and Ports
 
-All services is served from IP:
+All services are served from IP:
 
 http://13.228.110.97
 
