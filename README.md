@@ -14,11 +14,11 @@ This project is for DevSecCon2018 workshop
 
 Presentation Slides:
 
- https://docs.google.com/presentation/d/1jW0pPXheS2aZqsXvfPATQLbY5sDRyGVpuNpswS5Zv4I/edit?usp=sharing
+ * https://docs.google.com/presentation/d/1eW6oMxEmhLJm6tVkAP3iHmb_AVEuZWZ7GMsIYFMHhqo/edit?usp=sharing
 
 LAB Slides:
 
- https://docs.google.com/presentation/d/12qNpVXpSxNuOE4wG9CBSGINauc7cBjOmIiQo3w7w9AA/edit?usp=sharing
+ * https://docs.google.com/presentation/d/12qNpVXpSxNuOE4wG9CBSGINauc7cBjOmIiQo3w7w9AA/edit?usp=sharing
 
 ## Demo App
 
