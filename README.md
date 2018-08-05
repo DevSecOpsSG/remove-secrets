@@ -19,25 +19,21 @@ Lab Slides:
   * Create a GitHub token
   * Create a mlab.com account and a new mongoDB with test user
 
-## Authentication
+## Authentication Methods
+
 Github is used as a authentication method to gain access to workshop resources
-Membership to https://github.com/DevSecOpsSG allows access to the Lab Jenkins and Vault
 
-For Jenkins, no further action required
-
-For Vault, generate a GitHub personal access token to login -> Follow Steps 1-9 on: https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line
-
-Scopes define the access for personal tokens: Check “read:org” only
+Membership in https://github.com/DevSecOpsSG allows access to the Lab Jenkins and Vault
 
 ## Authorization
 
 GitHub - Your Personal Account
 
-Jenkins - GitHub Authentication
+Jenkins - Use GitHub
 
 Portainer - `readonly:readonly`
 
-Vault - Generated GitHub Personal Access Token -> Follow Steps 1-9 on: https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line
+Vault - GitHub Personal Access Token
 
 Your Deployed App - Public
 
