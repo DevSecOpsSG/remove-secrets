@@ -14,11 +14,11 @@ This project is for DevSecCon2018 workshop
 
 Presentation Slides:
 
- * https://docs.google.com/presentation/d/1eW6oMxEmhLJm6tVkAP3iHmb_AVEuZWZ7GMsIYFMHhqo/edit?usp=sharing
+ * https://tinyurl.com/remove-secrets-pres
 
 Lab Slides:
 
- * https://docs.google.com/presentation/d/12qNpVXpSxNuOE4wG9CBSGINauc7cBjOmIiQo3w7w9AA/edit?usp=sharing
+ * https://tinyurl.com/remove-secrets-lab
 
 ## Authentication
 
