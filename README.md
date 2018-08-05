@@ -1,6 +1,6 @@
-# devseccon2018
+# remove-secrets
 
-This project is for DevSecCon2018 workshop
+This project is for remove-secrets workshop
 
 Presentation Slides:
 
