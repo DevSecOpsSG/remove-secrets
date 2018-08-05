@@ -2,16 +2,6 @@
 
 This project is for DevSecCon2018 workshop
 
-## Pre-requisite (Do this right NOW)
-
-1. For access to services, please sign up / log in to GitHub
-
-2. Create an issue in https://github.com/DevSecOpsSG/devseccon2018 project with your GitHub account so I can send an invite to your user
-
-* ![](img/create_issue_template.png)
-
-3. Join the https://github.com/DevSecOpsSG organization from the email invite
-
 Presentation Slides:
 
  * https://tinyurl.com/remove-secrets-pres
@@ -20,8 +10,17 @@ Lab Slides:
 
  * https://tinyurl.com/remove-secrets-lab
 
-## Authentication
+## Prerequisites (Do this before workshop to save time)
 
+1. The details are in the Prerequisites section of https://tinyurl.com/remove-secrets-lab
+
+  * Set up your GitHub account
+  * Request permission to join https://github.com/DevSecOpsSG
+  * Create a GitHub token
+  * Create a mlab.com account and a new mongoDB with test user
+
+## Authentication
+Github is used as a authentication method to gain access to workshop resources
 Membership to https://github.com/DevSecOpsSG allows access to the Lab Jenkins and Vault
 
 For Jenkins, no further action required
