@@ -3,7 +3,7 @@
 
 IMG_NAME=''  # Give your Docker image a name
 CTNR_NAME='' # Give your Docker container a unique name
-HOST_URL=''
+HOSTING_URL='app.thepingofhealth.com'
 
 # System a random port between 9001-9999
 PORT=$(shuf -i 9000-9999 -n 1)
@@ -27,4 +27,4 @@ docker run \
   --name ${CTNR_NAME} \
   ${IMG_NAME}
   
-echo "Your app is hosted on: ${HOST_URL}:${PORT}"
+echo "Your app is hosted on: http://${HOSTING_URL}:${PORT}"
