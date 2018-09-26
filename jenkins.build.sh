@@ -28,3 +28,6 @@ docker run \
   ${IMG_NAME}
   
 echo "Your app is hosted on: http://${HOSTING_URL}:${PORT}"
+
+sleep 1
+docker logs ${CTNR_NAME}
