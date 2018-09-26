@@ -1,18 +1,10 @@
-# remove-secrets
+# remove developers' shameful secrets or REMOVE THE DEVELOPERS 
 
-This project is for remove-secrets workshop
-
-Presentation Slides:
-
- * https://tinyurl.com/remove-secrets-pres
-
-Lab Slides:
-
- * https://tinyurl.com/remove-secrets-lab
+This is for remove-secrets workshop
 
 ## Prerequisites (Do this before workshop to save time)
 
-The steps are in the Prerequisites section of https://tinyurl.com/remove-secrets-lab
+To save time in workshop, Complete steps in Prerequisites slides: https://tinyurl.com/remove-secrets-lab-prereq
 
 ## Authentication
 
@@ -32,6 +24,14 @@ You must request and accept membership in https://github.com/DevSecOpsSG to acce
 | Vault | master.thepingofhealth.com:8200 |
 | Your App | app.thepingofhealth.com:9001-9999 |
 
+## Overall Presentation Slides
+
+ * https://tinyurl.com/remove-secrets-pres
+ 
+## Overall Lab Slides
+
+ * https://tinyurl.com/remove-secrets-lab
+ 
 ## Demo App Reference
 
 This demo app.js connects to a MongoDB in mlab.com - example is from https://zellwk.com/blog/crud-express-mongodb
