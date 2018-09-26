@@ -12,45 +12,30 @@ Lab Slides:
 
 ## Prerequisites (Do this before workshop to save time)
 
-1. The details are in the Prerequisites section of https://tinyurl.com/remove-secrets-lab
+The steps are in the Prerequisites section of https://tinyurl.com/remove-secrets-lab
 
-  * Set up your GitHub account
-  * Request permission to join https://github.com/DevSecOpsSG
-  * Create a GitHub token
-  * Create a mlab.com account and a new mongoDB with test user
+## Authentication
 
-## Authentication Methods
+You must request and accept membership in https://github.com/DevSecOpsSG to access Jenkins and Vault
 
-Github is used as a authentication method to gain access to workshop resources
-
-Membership in https://github.com/DevSecOpsSG allows access to the Lab Jenkins and Vault
-
-## Authorization
-
-GitHub - Your Personal Account
-
-Jenkins - Use GitHub
-
-Portainer - `readonly:readonly`
-
-Vault - GitHub Personal Access Token
-
-Your Deployed App - Public
+| Services | Authentication Accounts |
+| --- | --- |
+| Jenkins | GitHub SSO |
+| Vault | GitHub Personal Token |
+| Your App | public |
 
 ## Lab IP and Ports
 
 All services are served from IP:
 
-http://13.228.110.97
+app.thepingofhealth.com
+master.thepingofhealth.com
 
-| Services | Ports |
+| Services | URL |
 | --- | --- |
-| "Production" Custom App | 80 |
-| Portainer (Docker Container UI)| 8100 |
-| Vault (Server for CLI) | 8200 |
-| Vault (UI) | 8300 |
-| Jenkins (Build and Deploy) | 8100 |
-| Your Custom App | 9000-9999 |
+| Jenkins | master.thepingofhealth.com:8080 |
+| Vault | master.thepingofhealth.com:8200 |
+| Your App | app.thepingofhealth.com:9001-9999 |
 
 ## Demo App Reference
 
