@@ -14,7 +14,8 @@ You must request and accept membership in https://github.com/DevSecOpsSG to acce
 | --- | --- |
 | Jenkins | GitHub SSO |
 | Vault | GitHub Personal Token |
-| Your App | public |
+| My Demo App | public |
+| Your Demo App | public |
 
 ## Demo Services and URLs
 
@@ -22,7 +23,8 @@ You must request and accept membership in https://github.com/DevSecOpsSG to acce
 | --- | --- |
 | Jenkins | master.thepingofhealth.com:8080 |
 | Vault | master.thepingofhealth.com:8200 |
-| Your App | app.thepingofhealth.com:9001-9999 |
+| My Demo App | app.thepingofhealth.com:8888 |
+| Your Demo App | app.thepingofhealth.com:9001-9999 |
 
 ## Overall Presentation Slides
 
