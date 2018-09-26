@@ -24,12 +24,7 @@ You must request and accept membership in https://github.com/DevSecOpsSG to acce
 | Vault | GitHub Personal Token |
 | Your App | public |
 
-## Lab IP and Ports
-
-All services are served from IP:
-
-app.thepingofhealth.com
-master.thepingofhealth.com
+## Demo Services and URLs
 
 | Services | URL |
 | --- | --- |
